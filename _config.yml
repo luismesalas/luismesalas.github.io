@@ -1,8 +1,7 @@
 title: Luis Mesa <CV>
 description: Luis Mesa <CV>
-author:
-  name: Luis Mesa
-  email: luismesalas@gmail.com
+author:  Luis Mesa
+email: luismesalas@gmail.com
 
 theme: minima
 
@@ -16,6 +15,9 @@ header_pages:
 
 include:
   - _pages
+
+exclude: 
+  - README.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
