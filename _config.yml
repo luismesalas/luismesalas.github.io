@@ -16,11 +16,7 @@ header_pages:
 include:
   - _pages
 
-exclude: 
-  - README.md
-
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
 
-social_links:
-  - { platform: linkedin, user_url: "https://www.linkedin.com/in/mesa" }
+linkedin_username: mesa
