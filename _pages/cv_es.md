@@ -1,5 +1,3 @@
-# Luis Mesa - CV en castellano
-
 Con más de una década desarrollando software, cuento con una dilatada experiencia en varios campos, destacando entre ellos la explotación del dato y la integración de servicios en la nube.
 
 En los últimos años me he consolidado como arquitecto de soluciones basadas en nube pública, centrado en GCP y AWS, en la que diseño arquitecturas para dar soporte a procesos ETL para el procesamiento de datos, tanto en lote como en tiempo real.
@@ -8,9 +6,11 @@ Enfocado en desarrollar código con rigor, siguiendo las *best practices*, y pen
 
 ## Formación Académica
 
-- **Máster Universitario en Profesorado** en Enseñanza Secundaria Obligatoria y Bachillerato Formación Profesional y Enseñanzas de Idiomas (especialidad en Informática). Escuela Internacional de Posgrado, **Universidad de Sevilla**. Octubre 2019 – **Julio 2020**.
-- **Máster Universitario en Ingeniería Informática**. Centro Estudios de Posgrado, **Universidad Pablo de Olavide**, de Sevilla. Octubre 2016 – **Julio 2018**.
-- **Ingeniería Técnica en Informática de Gestión**. Escuela Politécnica Superior, **Universidad Pablo de Olavide**, de Sevilla. Octubre 2006 – **Febrero 2010**.
+**Máster Universitario en Profesorado** en Enseñanza Secundaria Obligatoria y Bachillerato Formación Profesional y Enseñanzas de Idiomas (especialidad en Informática). Escuela Internacional de Posgrado, **Universidad de Sevilla**. Octubre 2019 – **Julio 2020**.
+
+**Máster Universitario en Ingeniería Informática**. Centro Estudios de Posgrado, **Universidad Pablo de Olavide**, de Sevilla. Octubre 2016 – **Julio 2018**.
+
+**Ingeniería Técnica en Informática de Gestión**. Escuela Politécnica Superior, **Universidad Pablo de Olavide**, de Sevilla. Octubre 2006 – **Febrero 2010**.
 
 ## Conocimiento técnico
 
@@ -51,3 +51,15 @@ Cuento con conocimientos en varias áreas. A continuación, destaco algunas de l
 **Visualización de datos**: destreza con Google Looker y Grafana. Alguna experiencia menos reseñable con PowerBI.
 
 **Observabilidad**: despliegue y configuración de sistemas basados en el stack ELK (Elasticsearch Kibana y Logstash)
+
+
+## Conocimiento Sectorial
+
+**Administración Pública**: Ministerio de Ciencia e Innovación, Secretaría de Estado de Telecomunicaciones (Ministerio de Industria, Energía y Turismo).
+
+**Banca**: ING Direct España, Banco Santander, BBVA, Oney.
+
+**Industria**: Airbus, Talgo, CAF.
+
+**Servicios y Retail**: Telefónica, MásMovil, Enel, Ferrovial, TMB, Naturgy, Decathlon.
+
