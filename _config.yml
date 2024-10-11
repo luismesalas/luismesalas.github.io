@@ -19,4 +19,6 @@ include:
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
 
+hide_header: true
+
 linkedin_username: mesa
