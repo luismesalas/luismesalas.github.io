@@ -1,3 +1,5 @@
+# Luis Mesa - CV en castellano
+
 Con más de una década desarrollando software, cuento con una dilatada experiencia en varios campos, destacando entre ellos la explotación del dato y la integración de servicios en la nube.
 
 En los últimos años me he consolidado como arquitecto de soluciones basadas en nube pública, centrado en GCP y AWS, en la que diseño arquitecturas para dar soporte a procesos ETL para el procesamiento de datos, tanto en lote como en tiempo real.
