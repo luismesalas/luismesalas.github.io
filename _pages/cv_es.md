@@ -54,7 +54,6 @@ Cuento con conocimientos en varias áreas. A continuación, destaco algunas de l
 
 **Observabilidad**: despliegue y configuración de sistemas basados en el stack ELK (Elasticsearch Kibana y Logstash)
 
-
 ## Conocimiento Sectorial
 
 **Administración Pública**: Ministerio de Ciencia e Innovación, Secretaría de Estado de Telecomunicaciones (Ministerio de Industria, Energía y Turismo).
@@ -139,31 +138,11 @@ Descanso profesional. Buscando un nuevo reto que inspire mi motivación.
 
 ## Idiomas
 
-Aptis General CEFR C Grade.
+- Inglés: Aptis General CEFR C Grade.
 
 ## Otros datos de interés
 
-**Google Cloud Certified Professional Cloud Architect** de 2018 a 2022. Actualmente en proceso de re-certificación.
-
-**Permiso** de condución **B**.
-
-Entusiasta de los eventos de divulgación tecnológica:
-- Organizador de dos comunidades de Meetup: [Databeers Sevilla](https://www.meetup.com/es-ES/databeersvq/) y [/dev/null talks](https://devnulltalks.github.io/).
-- Miembro activo de [SVQTech](https://www.svqtech.com).
-- Coordinador de la candidatura para la PyConES 2025 en Sevilla.
-entel (2009/12 - 2010/10)
-
-**Full-stack Junior Developer** en el equipo de sistemas de información, realizando desarrollo web para las aplicaciones internas del mismo. Integración con las bases de datos del grupo Telefónica.
-
-> Java, Struts, HTML, JS, XSL, SQL
-
-## Idiomas
-
-Aptis General CEFR C Grade.
-
-## Otros datos de interés
-
-**Google Cloud Certified Professional Cloud Architect** de 2018 a 2022. Actualmente en proceso de re-certificación.
+**Google Cloud Certified Professional Cloud Architect** de 2018 a 2022.
 
 **Permiso** de condución **B**.
 
