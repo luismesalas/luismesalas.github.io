@@ -1,3 +1,3 @@
 # Hello, it's me, Luis Mesa!
 
-Some stuff
+This is a work in progress, please be reasonable.
