@@ -115,7 +115,7 @@ Descanso profesional. Buscando un nuevo reto que inspire mi motivación.
 
 ### Aertec (2013/01 - 2014/01)
 
-**Desktop Software Developer** en CATS. Desarrollo de nuevas funcionalidades y evolutivos para el sistema de pruebas en tierra de las aeronaves de Airbus Military. Gestión de base de datos Oracle y soporte a usuarios de aplicaciones Citrix. 
+**Desktop Software Developer** en CATS (Computer Aided Test System). Desarrollo de nuevas funcionalidades y evolutivos para el sistema de pruebas en tierra de las aeronaves de Airbus Military. Gestión de base de datos Oracle y soporte a usuarios de aplicaciones Citrix. 
 
 > C++, SQL, PL/SQL
 
@@ -131,7 +131,10 @@ Descanso profesional. Buscando un nuevo reto que inspire mi motivación.
 
 > Java, Struts, Spring, JSP, jBPM, JS, HTML, SQL, PL/SQL
 
-### Ab
+### Abentel (2009/12 - 2010/10)
+
+**Full-stack Junior Developer** (beca) en el departamento de Sistemas de Información. Desarrollo web para las aplicaciones internas del departamento de Sistemas de Información. Integración con las bases de datos del grupo Telefónica.
+
 > Java, Struts, HTML, JS, XSL, SQL
 
 ## Idiomas
