@@ -67,11 +67,9 @@ Cuento con conocimientos en varias áreas. A continuación, destaco algunas de l
 
 ## Experiencia profesional
 
-### Capgemini (2024/06 - actualidad)
+### Salud y bienestar (2024/06 - actualidad)
 
-**Data Engineer & Cloud Architect**. Participación en la elaboración de propuestas de arquitectura Cloud para RFCs y ofertas de diversos cliente, especialmente con GCP. Elaboración de pruebas de concepto basadas en pipelines de procesamiento de datos con arquitectura lambda.
-
-> AWS, GCP, Pub/Sub, Kubernetes, Python
+Descanso profesional. Buscando un nuevo reto que inspire mi motivación.
 
 ### ACK Storm (2024/01 - 2024/05)
 
